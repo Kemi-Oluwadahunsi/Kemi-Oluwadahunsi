@@ -1,5 +1,27 @@
 # 💫 About Me:
-<br><br>About Me<br><br>👋 Hi there! I'm Oluwakemi Oluwadahunsi, a passionate Frontend Developer with a love for crafting engaging user experiences.<br><br>Currently, I'm diving into the deeper aspects React.js and exploring its ecosystem to build scalable and performant web applications. I'm also polishing my skills in backend integration for a seamless communication between both ends.<br><br>I'm always eager to learn and grow. If you have expertise in areas like advanced CSS techniques, state management in React (Redux toolkit advanced), or frontend performance optimization, I'd love to pick your brain and level up my skills.<br><br> Additionally, I'm exploring the latest trends in frontend development, such as server-side rendering with Next.js and state-of-the-art CSS frameworks.<br><br>Have any questions about my projects, tech stack, or experiences? Feel free to reach out! I'm always up for a chat about all things frontend development and beyond.<br><br>When I'm not coding, you can find me exploring nature trails, experimenting with new recipes in the kitchen, or losing track of time making skincare products.<br><br>
+<br><br>About Me<br><br>👋 Hi there! I'm Oluwakemi Oluwadahunsi, a passionate Frontend Developer with a love for crafting engaging user experiences.<br><br>
+
+## Professional Skills:
+- **Frontend Development:** Expertise in HTML, CSS, JavaScript, and React.js.
+- **React Ecosystem:** Proficient in building scalable and performant applications using React.js and exploring advanced state management with Redux Toolkit.
+- **Backend Integration:** Skilled in ensuring seamless communication between frontend and backend systems.
+- **Performance Optimization:** Focused on enhancing application performance for superior user experiences.<br><br>
+
+## Current Focus:
+- **Next.js:** Leveraging server-side rendering for improved application performance and SEO.<br>
+- **Software Quality Advocate:** Ensuring best practices in code quality, testing, and maintainability.<br><br>
+
+## Learning and Growth:
+Committed to continuous learning and professional development.<br><br>
+
+## Latest Trends:
+Exploring the latest trends in frontend development, including Next.js, state-of-the-art CSS frameworks, and progressive web apps (PWAs).<br><br>
+
+
+## Let's Connect:
+Have questions about my projects, tech stack, or experiences? I'm always open to discussing frontend development and beyond.
+
+<br><br>
 
 
 ## 🌐 Socials:
