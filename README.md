@@ -1,10 +1,10 @@
 # 💫 About Me:
-<br><br>About Me<br><br>👋 Hi there! I'm Oluwakemi Oluwadahunsi, a passionate Frontend Developer with a love for crafting engaging user experiences.<br><br>
+<br><br>About Me<br><br>👋 Hi there! I'm Oluwakemi Oluwadahunsi, a passionate Frontend Developer who loves crafting engaging user experiences.<br><br>
 
 ## Professional Skills:
-- **Frontend Development:** Expertise in HTML, CSS, JavaScript, and React.js.
+- **Frontend Development:** Expertise in HTML, CSS, JavaScript, Typescript, React.js, and Next.js.
 - **React Ecosystem:** Proficient in building scalable and performant applications using React.js and exploring advanced state management with Redux Toolkit.
-- **Backend Integration:** Skilled in ensuring seamless communication between frontend and backend systems.
+- **Backend Integration:** Skilled in ensuring seamless communication between frontend and backend systems, specifically with Node.js and Express.js.
 - **Performance Optimization:** Focused on enhancing application performance for superior user experiences.<br><br>
 
 ## Current Focus:
