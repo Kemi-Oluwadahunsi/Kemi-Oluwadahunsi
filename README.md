@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>About Me<br><br>👋 Hi there! I'm Oluwakemi Oluwadahunsi, a passionate Frontend Developer who loves crafting engaging user experiences.<br><br>
+<br><br>👋 Hi there! I'm Oluwakemi Oluwadahunsi, a passionate Frontend Developer who loves crafting engaging user experiences.<br><br>
 
 ## Professional Skills:
 - **Frontend Development:** Expertise in HTML, CSS, JavaScript, Typescript, React.js, and Next.js.
