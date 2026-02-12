@@ -23,15 +23,18 @@
 
 <br><br>
 
-##  Currently Learning
+##  Currently Exploring
 
 - Advanced micro-frontend patterns
 
 - System design at scale
 
+- Micro-frontends with Module Federation, enterprise API design, performance optimization, and scalable React architecture.
 
-## Latest Trends:
-Exploring the latest trends in frontend development, including Next.js, state-of-the-art CSS frameworks, and progressive web apps (PWAs).<br><br>
+<br><br>
+
+
+
 
 
 ## Let's Connect:
@@ -42,6 +45,17 @@ Exploring the latest trends in frontend development, including Next.js, state-of
 - **Email:** oluwakemioluwadahunsi@gmail.com
 
 - **X:** [x.com/km/km_oluwadahunsi](https://x.com/km_oluwadahunsi) 
+
+<br><br>
+
+##  Philosophy
+
+> "Clean code isn't an add-on. It's the standard."  
+
+> "Code is for people, not just computers."  
+
+> "Impact over impressions."
+
 
 <br><br>
 
